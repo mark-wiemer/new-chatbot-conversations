@@ -1,0 +1,13 @@
+# Prompt engineering article (ChatGPT Mar 23 Version, GPT-3.5)
+
+> Define prompt engineering
+
+Prompt engineering is the process of designing and constructing high-quality prompts or cues for language models or other artificial intelligence (AI) systems. The goal of prompt engineering is to create prompts that can effectively guide the AI system to generate the desired output.
+
+Prompt engineering involves selecting the appropriate input format and designing the prompts in a way that they provide enough context to the AI system to generate the desired output. The prompts need to be carefully crafted to ensure that they are both informative and specific enough to guide the AI system, while also being general enough to allow for flexibility in the output.
+
+Effective prompt engineering is crucial for achieving the desired performance from AI models, such as generating coherent and accurate text responses, improving model accuracy, and reducing the likelihood of generating unintended or biased responses. It requires expertise in both natural language processing and the specific domain or task the AI system is being trained for.
+
+> Define prompt engineering in 20 words
+
+Prompt engineering is designing effective cues for AI models by selecting input format and crafting informative, specific, and flexible prompts.
