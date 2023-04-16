@@ -1,6 +1,6 @@
 # Snippets from prompt engineering article
 
-Full conversations at 2023-04-gpt-3.5-prompt-engineering.md
+Full conversations at [2023-04-gpt-3.5-prompt-engineering.md](https://github.com/mark-wiemer/new-chatbot-conversations/blob/main/2023-04-15-gpt-3.5-prompt-engineering.md)
 
 ## I find ChatGPT a lot more useful
 
