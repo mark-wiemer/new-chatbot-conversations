@@ -1,4 +1,4 @@
-# Conversations with the new Bing
+# 2023-04-15 Microsoft Bing prompt engineering
 
 "More Balanced" mode:
 
