@@ -1,4 +1,4 @@
-# 2023-04-15 Google Bard prompt engineering
+## 2023-04-15 Google Bard prompt engineering
 
 > Define prompt engineering in 20 words
 
