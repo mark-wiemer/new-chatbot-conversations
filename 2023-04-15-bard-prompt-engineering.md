@@ -11,16 +11,16 @@ Sure. Here is a definition of prompt engineering in 20 words:
 
 Sure, I can help you with that. Here are 10 nonsense sentences for your new series called Hot Skull:
 
-The hot skull was so hot that it melted the snow.
-The hot skull was so hot that it cooked the fish.
-The hot skull was so hot that it burned down the house.
-The hot skull was so hot that it exploded the bomb.
-The hot skull was so hot that it flew into space.
-The hot skull was so hot that it created a new universe.
-The hot skull was so hot that it ended the world.
-The hot skull was so hot that it started a new era.
-The hot skull was so hot that it changed the course of history.
-The hot skull was so hot that it became a legend.
+1. The hot skull was so hot that it melted the snow.
+1. The hot skull was so hot that it cooked the fish.
+1. The hot skull was so hot that it burned down the house.
+1. The hot skull was so hot that it exploded the bomb.
+1. The hot skull was so hot that it flew into space.
+1. The hot skull was so hot that it created a new universe.
+1. The hot skull was so hot that it ended the world.
+1. The hot skull was so hot that it started a new era.
+1. The hot skull was so hot that it changed the course of history.
+1. The hot skull was so hot that it became a legend.
 
 I hope these sentences are nonsense enough for you!
 
