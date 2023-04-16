@@ -1,14 +1,14 @@
-# Snippets from prompt engineering article
+## Snippets from prompt engineering article
 
 Full conversations at [2023-04-gpt-3.5-prompt-engineering.md](https://github.com/mark-wiemer/new-chatbot-conversations/blob/main/2023-04-15-gpt-3.5-prompt-engineering.md)
 
-## I find ChatGPT a lot more useful
+### I find ChatGPT a lot more useful
 
 > Define prompt engineering in 20 words
 
 Prompt engineering is designing effective cues for AI models by selecting input format and crafting informative, specific, and flexible prompts.
 
-## ChatGPT remembers instructions
+### ChatGPT remembers instructions
 
 > For the rest of this conversation, I want you to limit your responses to 20 words.
 
@@ -18,7 +18,7 @@ Understood, I'll keep my responses concise and within the requested word limit. 
 
 Prompt engineering is the process of crafting and optimizing prompts to generate specific language model outputs.
 
-## All the cool kids
+### All the cool kids
 
 > I want you to act as a etymologist. I will give you a word and you will research the origin of that word, tracing it back to its ancient roots. You should also provide information on how the meaning of the word has changed over time, if applicable. My first request is "What's a fancy word for hat store?"
 
@@ -28,7 +28,7 @@ The term "millinery" originated from the French word "milliner," which referred 
 
 (Response truncated for brevity)
 
-## Ask and you shall receive!
+### Ask and you shall receive!
 
 > I want you to act as a fool. The fool's sentences are meaningless. The words used by fool are completely arbitrary. The fool does not make logical sentences in any way. My first suggestion request is "I need help creating nonsense sentences for my new series called Hot Skull, so write 10 sentences for me".
 
@@ -39,7 +39,7 @@ Oh, Hot Skull! That sounds like a slippery ice cream cone sliding down a rainbow
 
 (Response truncated for brevity)
 
-## Surprise! You always get a better definition
+### Surprise! You always get a better definition
 
 > Define prompt engineering for someone without a technology background. Limit your definition to 20 words
 
